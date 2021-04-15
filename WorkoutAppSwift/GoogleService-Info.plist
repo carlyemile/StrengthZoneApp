@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>184745531414-vrea0rhc7ae1jef80sh04mgvcpfp7j91.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.184745531414-vrea0rhc7ae1jef80sh04mgvcpfp7j91</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCfxXsEjmeVWHfgtmXMLjBFg05enTuVPtQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>184745531414</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>emile.carly.StrengthZone</string>
+	<key>PROJECT_ID</key>
+	<string>strengthzone-d31a8</string>
+	<key>STORAGE_BUCKET</key>
+	<string>strengthzone-d31a8.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:184745531414:ios:119d1d613366bf9b</string>
+	<key>DATABASE_URL</key>
+	<string>https://strengthzone-d31a8.firebaseio.com</string>
+</dict>
+</plist>
